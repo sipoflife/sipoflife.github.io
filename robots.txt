@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: /theme/
-Sitemap: https://blog.br8.ca/sitemap.txt
